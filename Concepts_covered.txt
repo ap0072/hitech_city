@@ -1,0 +1,6 @@
+Concepts covered in python:
+.taking input from user
+.usage of for loop in three ways(int,string,list)
+.double for loop
+.using index in list accesing elements
+.using if condition finding unique letters 
